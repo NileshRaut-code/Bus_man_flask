@@ -1,0 +1,6 @@
+pysqlite3
+flask
+flask_mail
+pandas
+xlwt
+os
